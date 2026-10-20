@@ -1,4 +1,4 @@
-<img src="./assets/header.png" alt="Yasser Ameur — From idea to MVP in weeks. Helping founders ship faster." width="100%" />
+<img src="./assets/header-rounded.png" alt="Yasser Ameur — From idea to MVP in weeks. Helping founders ship faster." width="100%" />
 
 <br />
 
